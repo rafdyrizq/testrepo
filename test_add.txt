@@ -1,0 +1,3 @@
+# Add a new file via gitbash
+
+print("This is a new file in gitbash")
